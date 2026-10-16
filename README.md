@@ -20,5 +20,6 @@ _Punts d'interès principals:_
 * _Guèiser Old Faithful:_ Un dels guèisers més predictibles del món, que erupciona a intervals regulars.
 * _Grand Prismatic Spring:_ La font termal més gran dels Estats Units, reconeguda pels seus colors vius provocats per bacteris termòfils.
 * _Canyó Grand de Yellowstone:_ Un profund canyó esculpit pel riu Yellowstone que compta amb cascades impressionants.
+![Canyó Grand de Yellowstone](https://cdn.yellowstonepark.com/wp-content/uploads/2020/01/YS-Grand-Canyon-Lower-Falls-North-Overlook_Adobe_2400.jpg?auto=webp&width=1920&quality=75&fit=cover)
 * _Fauna silvestre:_ Hàbitat natural de bisons, ossos grisos, llops i alces.
-> [Creant un primer markdown]()
+> [Creant un primer markdown](https://docs.github.com/es/get-started/using-github/hello-world)
